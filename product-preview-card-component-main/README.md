@@ -7,7 +7,7 @@ This is a frontend challenge from [Frontend Mentor](https://www.frontendmentor.i
 [Click here to view](https://unnati-chaudhari.github.io/Product-preview-card/)
 
 ## 📷Design Preview 
-![Design Preview](design/desktop-preview.jpg)
+![Design Preview](screenshots/2025-07-20.png)
 
 ## 📝Features 
 
