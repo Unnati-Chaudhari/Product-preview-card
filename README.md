@@ -26,10 +26,6 @@ This is a frontend challenge from [Frontend Mentor](https://www.frontendmentor.i
 - How to structure HTML components semantically
 - CSS Flexbox and layout techniques
 
-## 🙋‍♀️Help I used
-
-I used ChatGPT to understand and implement media queries (as I am still learning it) in this challenge. I made sure to learn how they work and apply them correctly in my own projects.
-
 ## Author 
 
 - Github:
